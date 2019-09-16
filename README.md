@@ -1,1 +1,1 @@
-# netlify-tic-tac-toe
+# NetlifyTicTacToe
